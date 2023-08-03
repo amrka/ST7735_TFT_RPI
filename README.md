@@ -49,7 +49,7 @@ Installation
 	* Run following command to download from github.
 
 ```sh
-curl -sL https://github.com/gavinlyonsrepo/ST7735_TFT_RPI/archive/1.6.tar.gz | tar xz
+curl -sL https://codeload.github.com/amrka/ST7735_TFT_RPI/tar.gz/refs/tags/1.6 | tar xz
 ```
 
 4. Install library. Run "make" to run the makefile to install library, it will be
